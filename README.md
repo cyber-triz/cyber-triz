@@ -1,7 +1,7 @@
 
     
 
-## Olá! Eu sou a Bia! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="70px" align="right" style="margin-top: 300px;">
+## Olá! Eu sou a Triz! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="70px" align="right" style="margin-top: 300px;">
 
 # 💫 Sobre mim:
   👩‍💻 Atualmente estou trabalhando em<br>- Monitoramento e suporte em ambiente NOC (Network Operations Center)<br>- Transição estratégica para atuação em SOC (Security Operations Center)<br><br> 🤝 Procuro colaborar em<br>- Projetos educacionais de tecnologia e segurança da informação<br>- Iniciativas que incentivem mulheres a entrarem na área de TI<br><br> 
